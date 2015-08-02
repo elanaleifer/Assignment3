@@ -13,7 +13,7 @@ body {
 
 title {
    font-size: 200px;
-   font-family: 'Roboto', sans-serif;
+   font-family: 'Armata'sans-serif;
 }
 
 nav {
@@ -35,5 +35,9 @@ p {
 
 h1{
    text-align: left;
+}
+
+strong {
+   font-weight: bold;
 }
 
