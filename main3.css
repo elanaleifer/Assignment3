@@ -1,28 +1,32 @@
 html {
    background: url("simplelines.jpeg.png") no-repeat center center fixed;
-   height: 1000px
+   height: 1000px;
+   font-family: 'Roboto', sans-serif;
 }
 
 body {
-   font-family: Helvetica;
+   font-family: 'Roboto', sans-serif;
    background: url("simplelines.jpeg.png") no-repeat center center fixed;
-   height: 1000px
+   height: 1000px;
 }
+
+
 title {
    font-size: 200px;
-   font-family: Helvetica;
-   text-align: right;
+   font-family: 'Roboto', sans-serif;
 }
 
 nav {
-
 }
 
 .main {
-   font-size: 200px
+   font-size: 200px;
+   text-align: right;
 }
 
 p {
-   font-size: 30px
-   margin: 200px 0 0 0;
+   font-size: 25px;
+   margin: 60px 0 0 0;
+   width: 400px;
+   float: right;
 }
