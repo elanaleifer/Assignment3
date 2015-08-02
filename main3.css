@@ -1,0 +1,28 @@
+html {
+   background: url("simplelines.jpeg.png") no-repeat center center fixed;
+   height: 1000px
+}
+
+body {
+   font-family: Helvetica;
+   background: url("simplelines.jpeg.png") no-repeat center center fixed;
+   height: 1000px
+}
+title {
+   font-size: 200px;
+   font-family: Helvetica;
+   text-align: right;
+}
+
+nav {
+
+}
+
+.main {
+   font-size: 200px
+}
+
+p {
+   font-size: 30px
+   margin: 200px 0 0 0;
+}
