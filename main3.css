@@ -20,13 +20,20 @@ nav {
 }
 
 .main {
-   font-size: 200px;
+   font-size: 250px;
    text-align: right;
 }
 
 p {
    font-size: 25px;
-   margin: 60px 0 0 0;
+   margin: 30px 0 0 0;
    width: 400px;
    float: right;
+   line-height: 1.3em;
+   background-color: #D7C6CF;
 }
+
+h1{
+   text-align: left;
+}
+
