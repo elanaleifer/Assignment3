@@ -17,7 +17,12 @@ body {
    margin-top: 20px;
 }
 
-nav {
+footer {
+   font-size: 12px;
+   margin-top: 530px;
+   text-align: center;
+   background-color: #C0C0C0;
+
 }
 
 .main {
@@ -35,8 +40,6 @@ p {
    line-height: 1.3em;
    background-color: #D7C6CF;
 }
-#A2798F
-#D7C6CF
 
 h1{
    text-align: left, top;
